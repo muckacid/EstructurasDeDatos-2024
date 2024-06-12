@@ -1,0 +1,7 @@
+"""
+                se crea una persona con los datos de nombre, apellido y rut
+                se agrega una persna a un registro
+                finalmente se imprime un mensaje al usuario que validar
+                el ingreso del correcto del registro
+                github: https://github.com/muckacid
+            """
